@@ -1,0 +1,26 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Generic with ratio -->
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_medium_2">16dp</dimen>
+    <dimen name="margin_medium_3">20dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_xxlarge">48dp</dimen>
+
+    <dimen name="margin_card_medium">6dp</dimen>
+    <dimen name="margin_card_medium_2">12dp</dimen>
+
+    <dimen name="margin_small_n">-4dp</dimen>
+    <dimen name="margin_card_medium_n">-6dp</dimen>
+    <dimen name="margin_medium_n">-8dp</dimen>
+    <dimen name="margin_card_medium_2_n">-12dp</dimen>
+    <dimen name="margin_medium_2_n">-16dp</dimen>
+    <dimen name="margin_medium_3_n">-18dp</dimen>
+    <dimen name="margin_large_n">-24dp</dimen>
+    <dimen name="margin_xlarge_n">-32dp</dimen>
+
+    <dimen name="empty_view_img_width">300dp</dimen>
+    <dimen name="empty_view_img_height">320dp</dimen>
+</resources>
